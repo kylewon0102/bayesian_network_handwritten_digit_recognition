@@ -1,3 +1,8 @@
-1. Bayesian Network For Handwritten digit recognition
+MNIST Digit Classification from basis without using tensorflow keras libraries (except loading data)
 
-Utilizing the bayes net idea to train a module with MINIST dataset and attempt to get perfect digit recognition.
+Functions
+- ReLU
+- Softmax
+- One_hot
+- gradient_descent
+- etc.
